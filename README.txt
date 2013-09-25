@@ -189,6 +189,11 @@ or whatever)
 Google Chrome is probably the same as Safari, as they both use WebKit for 
 rendering
 
+github
+======
+Todo:
+- Isuess system
+- Upload releases
 
 Have you a fun for great good!
 
